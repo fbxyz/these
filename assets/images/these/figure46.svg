@@ -1,0 +1,3433 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="159.23213mm"
+   height="203.78818mm"
+   viewBox="0 0 601.82224 770.22304"
+   id="svg1842"
+   sodipodi:docname="figure46.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:export-filename="/home/florian/Dropbox/These/boxplot_pvalue.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1846" />
+  <sodipodi:namedview
+     id="namedview1844"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="0.90829697"
+     inkscape:cx="326.43509"
+     inkscape:cy="413.41105"
+     inkscape:window-width="1920"
+     inkscape:window-height="1034"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     units="mm"
+     inkscape:document-units="mm" />
+  <g
+     fill="none"
+     stroke-miterlimit="10"
+     transform="translate(46.322273,89.999999)"
+     id="g1840">
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0,0 Z"
+       id="path4" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0,0 Z"
+       id="path6" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0,0 Z"
+       id="path8" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0,0 H 80 V 300 H 0 Z"
+       id="path10" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0.5,0.5 Z"
+       pointer-events="none"
+       id="path12" />
+    <line
+       x2="80.5"
+       y2="300.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line14"
+       x1="0.5"
+       y1="300.5"
+       style="stroke:#888888;stroke-opacity:1" />
+    <line
+       x2="81.5"
+       y2="267.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line16"
+       x1="0.5"
+       y1="267.5" />
+    <line
+       x2="81.5"
+       y2="233.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line18"
+       x1="0.5"
+       y1="233.5" />
+    <line
+       x2="81.5"
+       y2="200.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line20"
+       x1="0.5"
+       y1="200.5" />
+    <line
+       x2="81.5"
+       y2="167.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line22"
+       x1="0.5"
+       y1="167.5" />
+    <line
+       x2="81.5"
+       y2="133.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line24"
+       x1="0.5"
+       y1="133.5" />
+    <line
+       x2="81.5"
+       y2="100.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line26"
+       x1="0.5"
+       y1="100.5" />
+    <line
+       x2="81.5"
+       y2="67.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line28"
+       x1="0.5"
+       y1="67.5" />
+    <line
+       x2="81.5"
+       y2="33.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line30"
+       x1="0.5"
+       y1="33.5" />
+    <line
+       x2="81.5"
+       y2="0.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line32"
+       x1="0.5"
+       y1="0.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path38" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0.5,300.5 Z"
+       pointer-events="none"
+       id="path44"
+       style="stroke:#888888;stroke-opacity:1" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path56" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0.5,0.5 Z"
+       pointer-events="none"
+       id="path62" />
+    <line
+       x2="-4.5"
+       y2="300.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line64"
+       x1="0.5"
+       y1="300.5" />
+    <line
+       x2="-4.5"
+       y2="267.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line66"
+       x1="0.5"
+       y1="267.5" />
+    <line
+       x2="-4.5"
+       y2="233.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line68"
+       x1="0.5"
+       y1="233.5" />
+    <line
+       x2="-4.5"
+       y2="200.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line70"
+       x1="0.5"
+       y1="200.5" />
+    <line
+       x2="-4.5"
+       y2="167.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line72"
+       x1="0.5"
+       y1="167.5" />
+    <line
+       x2="-4.5"
+       y2="133.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line74"
+       x1="0.5"
+       y1="133.5" />
+    <line
+       x2="-4.5"
+       y2="100.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line76"
+       x1="0.5"
+       y1="100.5" />
+    <line
+       x2="-4.5"
+       y2="67.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line78"
+       x1="0.5"
+       y1="67.5" />
+    <line
+       x2="-4.5"
+       y2="33.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line80"
+       x1="0.5"
+       y1="33.5" />
+    <line
+       x2="-4.5"
+       y2="0.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line82"
+       x1="0.5"
+       y1="0.5" />
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text86"
+       x="-6.5"
+       y="303.5">0</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text88"
+       x="-6.5"
+       y="270.16666">50</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text90"
+       x="-6.5"
+       y="236.83333">100</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text92"
+       x="-6.5"
+       y="203.5">150</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text94"
+       x="-6.5"
+       y="170.16667">200</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text96"
+       x="-6.5"
+       y="136.83333">250</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text98"
+       x="-6.5"
+       y="103.5">300</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text100"
+       x="-6.5"
+       y="70.166664">350</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text102"
+       x="-6.5"
+       y="36.833332">400</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text104"
+       x="-6.5"
+       y="3.5">450</text>
+    <line
+       x2="0.5"
+       y2="0.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line108"
+       x1="0.5"
+       y1="300.5" />
+    <text
+       text-anchor="middle"
+       transform="rotate(-90)"
+       font-family="sans-serif"
+       font-size="11px"
+       font-weight="bold"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text112"
+       x="-150.5"
+       y="-29.18457">Ischémie froide en minute</text>
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path118" />
+    <line
+       x2="20"
+       y2="65.333328"
+       stroke="#4d4d4d"
+       id="line124"
+       x1="20"
+       y1="250" />
+    <line
+       x2="40"
+       y2="82"
+       stroke="#4d4d4d"
+       id="line126"
+       x1="40"
+       y1="250" />
+    <line
+       x2="60"
+       y2="68.666672"
+       stroke="#4d4d4d"
+       id="line128"
+       x1="60"
+       y1="250.66667" />
+    <path
+       d="m 12.5,162.00009 h 15 v 69.79516 h -15 z"
+       fill="#1f77b4"
+       id="path132" />
+    <path
+       d="m 32.5,174.18566 h 15 v 60.84448 h -15 z"
+       fill="#ff7f0e"
+       id="path134" />
+    <path
+       d="m 52.5,167.14739 h 15 v 67.84099 h -15 z"
+       fill="#ff7f0e"
+       id="path136"
+       style="fill:#e45756;fill-opacity:1" />
+    <path
+       d="m 12.5,196.39767 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path140" />
+    <path
+       d="m 32.5,204.1079 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path142" />
+    <path
+       d="m 52.5,200.56788 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path144" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path150" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="m 81,0 h 80 V 300 H 81 Z"
+       id="path156" />
+    <line
+       x2="159.5"
+       y2="300.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line160"
+       x1="79.5"
+       y1="300.5"
+       style="stroke:#888888;stroke-opacity:1" />
+    <line
+       x2="160.5"
+       y2="267.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line162"
+       x1="79.5"
+       y1="267.5" />
+    <line
+       x2="160.5"
+       y2="233.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line164"
+       x1="79.5"
+       y1="233.5" />
+    <line
+       x2="159.5"
+       y2="200.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line166"
+       x1="79.5"
+       y1="200.5" />
+    <line
+       x2="160.5"
+       y2="167.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line168"
+       x1="79.5"
+       y1="167.5" />
+    <line
+       x2="160.5"
+       y2="133.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line170"
+       x1="79.5"
+       y1="133.5" />
+    <line
+       x2="160.5"
+       y2="100.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line172"
+       x1="79.5"
+       y1="100.5" />
+    <line
+       x2="160.5"
+       y2="67.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line174"
+       x1="79.5"
+       y1="67.5" />
+    <line
+       x2="160.5"
+       y2="33.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line176"
+       x1="79.5"
+       y1="33.5" />
+    <line
+       x2="160.5"
+       y2="0.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line178"
+       x1="79.5"
+       y1="0.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path184" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path202" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path264" />
+    <line
+       x2="99"
+       y2="31.333342"
+       stroke="#4d4d4d"
+       id="line270"
+       x1="99"
+       y1="198.66667" />
+    <line
+       x2="119"
+       y2="56.666672"
+       stroke="#4d4d4d"
+       id="line272"
+       x1="119"
+       y1="230" />
+    <line
+       x2="139"
+       y2="31.333342"
+       stroke="#4d4d4d"
+       id="line274"
+       x1="139"
+       y1="208.66667" />
+    <path
+       d="m 91.5,125.91534 h 15 v 51.89227 h -15 z"
+       fill="#1f77b4"
+       id="path278" />
+    <path
+       d="m 111.5,166.66211 h 15 v 49.57333 h -15 z"
+       fill="#ff7f0e"
+       id="path280" />
+    <path
+       d="m 131.5,136.21553 h 15 v 52.05956 h -15 z"
+       fill="#ff7f0e"
+       id="path282"
+       style="fill:#e45756;fill-opacity:1" />
+    <path
+       d="m 91.5,151.36147 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path286" />
+    <path
+       d="m 111.5,190.94877 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path288" />
+    <path
+       d="m 131.5,161.74531 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path290" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path296" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="m 160,0 h 80 v 300 h -80 z"
+       id="path302" />
+    <line
+       x2="240.5"
+       y2="300.5"
+       stroke="#dddddd"
+       stroke-width="1.00623"
+       opacity="1"
+       id="line306"
+       x1="159.5"
+       y1="300.5"
+       style="stroke:#888888;stroke-opacity:1" />
+    <line
+       x2="240.5"
+       y2="267.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line308"
+       x1="160.5"
+       y1="267.5" />
+    <line
+       x2="240.5"
+       y2="233.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line310"
+       x1="160.5"
+       y1="233.5" />
+    <line
+       x2="239.5"
+       y2="200.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line312"
+       x1="159.5"
+       y1="200.5" />
+    <line
+       x2="240.5"
+       y2="167.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line314"
+       x1="160.5"
+       y1="167.5" />
+    <line
+       x2="240.5"
+       y2="133.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line316"
+       x1="160.5"
+       y1="133.5" />
+    <line
+       x2="240.5"
+       y2="100.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line318"
+       x1="160.5"
+       y1="100.5" />
+    <line
+       x2="240.5"
+       y2="67.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line320"
+       x1="160.5"
+       y1="67.5" />
+    <line
+       x2="240.5"
+       y2="33.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line322"
+       x1="160.5"
+       y1="33.5" />
+    <line
+       x2="240.5"
+       y2="0.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line324"
+       x1="160.5"
+       y1="0.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path330" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path348" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path410" />
+    <line
+       x2="180"
+       y2="48"
+       stroke="#4d4d4d"
+       id="line416"
+       x1="180"
+       y1="193.33333" />
+    <line
+       x2="200"
+       y2="48"
+       stroke="#4d4d4d"
+       id="line418"
+       x1="200"
+       y1="193.33333" />
+    <line
+       x2="220"
+       y2="48"
+       stroke="#4d4d4d"
+       id="line420"
+       x1="220"
+       y1="193.33333" />
+    <path
+       d="m 172.5,132.91484 h 15 v 45.59703 h -15 z"
+       fill="#1f77b4"
+       id="path424" />
+    <path
+       d="m 192.5,132.91484 h 15 v 45.59703 h -15 z"
+       fill="#ff7f0e"
+       id="path426" />
+    <path
+       d="m 212.5,132.96265 h 15 v 45.6013 h -15 z"
+       fill="#ff7f0e"
+       id="path428"
+       style="fill:#e45756;fill-opacity:1" />
+    <path
+       d="m 172.5,155.21336 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path432" />
+    <path
+       d="m 192.5,155.21336 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path434" />
+    <path
+       d="m 212.5,155.2633 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path436" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path442" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path450" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 315,0 Z"
+       id="path456" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="m 315,0 h 80 v 300 h -80 z"
+       id="path458" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 315.5,0.5 Z"
+       pointer-events="none"
+       id="path460" />
+    <line
+       x2="395.5"
+       y2="300.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line462"
+       x1="315.5"
+       y1="300.5"
+       style="stroke:#888888;stroke-opacity:1" />
+    <line
+       x2="395.5"
+       y2="270.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line464"
+       x1="315.5"
+       y1="270.5" />
+    <line
+       x2="395.5"
+       y2="240.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line466"
+       x1="315.5"
+       y1="240.5" />
+    <line
+       x2="395.5"
+       y2="210.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line468"
+       x1="315.5"
+       y1="210.5" />
+    <line
+       x2="395.5"
+       y2="180.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line470"
+       x1="315.5"
+       y1="180.5" />
+    <line
+       x2="395.5"
+       y2="150.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line472"
+       x1="315.5"
+       y1="150.5" />
+    <line
+       x2="395.5"
+       y2="120.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line474"
+       x1="315.5"
+       y1="120.5" />
+    <line
+       x2="395.5"
+       y2="90.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line476"
+       x1="315.5"
+       y1="90.5" />
+    <line
+       x2="395.5"
+       y2="60.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line478"
+       x1="315.5"
+       y1="60.5" />
+    <line
+       x2="395.5"
+       y2="30.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line480"
+       x1="315.5"
+       y1="30.5" />
+    <line
+       x2="397.5"
+       y2="0.5"
+       stroke="#dddddd"
+       stroke-width="1.01242"
+       opacity="1"
+       id="line482"
+       x1="315.5"
+       y1="0.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path488" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 315.5,300.5 Z"
+       pointer-events="none"
+       id="path494"
+       style="stroke:#888888;stroke-opacity:1" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path506" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 315.5,0.5 Z"
+       pointer-events="none"
+       id="path512" />
+    <line
+       x2="310.5"
+       y2="300.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line514"
+       x1="315.5"
+       y1="300.5" />
+    <line
+       x2="310.5"
+       y2="270.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line516"
+       x1="315.5"
+       y1="270.5" />
+    <line
+       x2="310.5"
+       y2="240.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line518"
+       x1="315.5"
+       y1="240.5" />
+    <line
+       x2="310.5"
+       y2="210.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line520"
+       x1="315.5"
+       y1="210.5" />
+    <line
+       x2="310.5"
+       y2="180.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line522"
+       x1="315.5"
+       y1="180.5" />
+    <line
+       x2="310.5"
+       y2="150.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line524"
+       x1="315.5"
+       y1="150.5" />
+    <line
+       x2="310.5"
+       y2="120.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line526"
+       x1="315.5"
+       y1="120.5" />
+    <line
+       x2="310.5"
+       y2="90.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line528"
+       x1="315.5"
+       y1="90.5" />
+    <line
+       x2="310.5"
+       y2="60.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line530"
+       x1="315.5"
+       y1="60.5" />
+    <line
+       x2="310.5"
+       y2="30.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line532"
+       x1="315.5"
+       y1="30.5" />
+    <line
+       x2="310.5"
+       y2="0.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line534"
+       x1="315.5"
+       y1="0.5" />
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text538"
+       x="308.5"
+       y="303.5">0</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text540"
+       x="308.5"
+       y="273.5">100</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text542"
+       x="308.5"
+       y="243.5">200</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text544"
+       x="308.5"
+       y="213.5">300</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text546"
+       x="308.5"
+       y="183.5">400</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text548"
+       x="308.5"
+       y="153.5">500</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text550"
+       x="308.5"
+       y="123.5">600</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text552"
+       x="308.5"
+       y="93.5">700</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text554"
+       x="308.5"
+       y="63.5">800</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text556"
+       x="308.5"
+       y="33.5">900</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text558"
+       x="308.5"
+       y="3.5">1 000</text>
+    <line
+       x2="315.5"
+       y2="0.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line562"
+       x1="315.5"
+       y1="300.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path572" />
+    <line
+       x2="335"
+       y2="73.199997"
+       stroke="#4d4d4d"
+       id="line578"
+       x1="335"
+       y1="264" />
+    <line
+       x2="355"
+       y2="73.800003"
+       stroke="#4d4d4d"
+       id="line580"
+       x1="355"
+       y1="264" />
+    <line
+       x2="375"
+       y2="77.100006"
+       stroke="#4d4d4d"
+       id="line582"
+       x1="375"
+       y1="264" />
+    <path
+       d="m 327.5,173.47442 h 15 v 54.77548 h -15 z"
+       fill="#1f77b4"
+       id="path586" />
+    <path
+       d="m 347.5,176.61226 h 15 v 54.86142 h -15 z"
+       fill="#ff7f0e"
+       id="path588" />
+    <path
+       d="m 367.5,175.77477 h 15 v 54.19154 h -15 z"
+       fill="#ff7f0e"
+       id="path590"
+       style="fill:#e45756;fill-opacity:1" />
+    <path
+       d="m 327.5,200.36216 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path594" />
+    <path
+       d="m 347.5,203.54297 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path596" />
+    <path
+       d="m 367.5,202.37054 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path598" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path604" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="m 395,0 h 80 v 300 h -80 z"
+       id="path610" />
+    <line
+       x2="475.5"
+       y2="300.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line614"
+       x1="395.5"
+       y1="300.5"
+       style="stroke:#888888;stroke-opacity:1" />
+    <line
+       x2="475.5"
+       y2="270.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line616"
+       x1="395.5"
+       y1="270.5" />
+    <line
+       x2="475.5"
+       y2="240.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line618"
+       x1="395.5"
+       y1="240.5" />
+    <line
+       x2="475.5"
+       y2="210.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line620"
+       x1="395.5"
+       y1="210.5" />
+    <line
+       x2="475.5"
+       y2="180.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line622"
+       x1="395.5"
+       y1="180.5" />
+    <line
+       x2="475.5"
+       y2="150.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line624"
+       x1="395.5"
+       y1="150.5" />
+    <line
+       x2="475.5"
+       y2="120.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line626"
+       x1="395.5"
+       y1="120.5" />
+    <line
+       x2="475.5"
+       y2="90.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line628"
+       x1="395.5"
+       y1="90.5" />
+    <line
+       x2="475.5"
+       y2="60.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line630"
+       x1="395.5"
+       y1="60.5" />
+    <line
+       x2="475.5"
+       y2="30.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line632"
+       x1="395.5"
+       y1="30.5" />
+    <line
+       x2="475.5"
+       y2="0.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line634"
+       x1="395.5"
+       y1="0.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path640" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path658" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path724" />
+    <line
+       x2="415"
+       y2="57.300003"
+       stroke="#4d4d4d"
+       id="line730"
+       x1="415"
+       y1="246" />
+    <line
+       x2="435"
+       y2="66.599991"
+       stroke="#4d4d4d"
+       id="line732"
+       x1="435"
+       y1="260.70001" />
+    <line
+       x2="455"
+       y2="60"
+       stroke="#4d4d4d"
+       id="line734"
+       x1="455"
+       y1="250.5" />
+    <path
+       d="m 407.5,161.28454 h 15 v 52.84252 h -15 z"
+       fill="#1f77b4"
+       id="path738" />
+    <path
+       d="m 427.5,177.69401 h 15 v 54.13662 h -15 z"
+       fill="#ff7f0e"
+       id="path740" />
+    <path
+       d="m 447.5,165.37373 h 15 v 52.79457 h -15 z"
+       fill="#ff7f0e"
+       id="path742"
+       style="fill:#e45756;fill-opacity:1" />
+    <path
+       d="m 407.5,187.2058 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path746" />
+    <path
+       d="m 427.5,204.26232 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path748" />
+    <path
+       d="m 447.5,191.27101 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path750" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path756" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="m 475,0 h 80 v 300 h -80 z"
+       id="path762" />
+    <line
+       x2="555.5"
+       y2="300.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line766"
+       x1="475.5"
+       y1="300.5"
+       style="stroke:#888888;stroke-opacity:1" />
+    <line
+       x2="555.5"
+       y2="270.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line768"
+       x1="475.5"
+       y1="270.5" />
+    <line
+       x2="555.5"
+       y2="240.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line770"
+       x1="475.5"
+       y1="240.5" />
+    <line
+       x2="555.5"
+       y2="210.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line772"
+       x1="475.5"
+       y1="210.5" />
+    <line
+       x2="555.5"
+       y2="180.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line774"
+       x1="475.5"
+       y1="180.5" />
+    <line
+       x2="555.5"
+       y2="150.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line776"
+       x1="475.5"
+       y1="150.5" />
+    <line
+       x2="555.5"
+       y2="120.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line778"
+       x1="475.5"
+       y1="120.5" />
+    <line
+       x2="555.5"
+       y2="90.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line780"
+       x1="475.5"
+       y1="90.5" />
+    <line
+       x2="555.5"
+       y2="60.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line782"
+       x1="475.5"
+       y1="60.5" />
+    <line
+       x2="555.5"
+       y2="30.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line784"
+       x1="475.5"
+       y1="30.5" />
+    <line
+       x2="555.5"
+       y2="0.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line786"
+       x1="475.5"
+       y1="0.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path792" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 473.5,300.5 Z"
+       pointer-events="none"
+       id="path798"
+       style="stroke:#888888;stroke-opacity:1" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path810" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path876" />
+    <line
+       x2="493"
+       y2="21.599997"
+       stroke="#4d4d4d"
+       id="line882"
+       x1="493"
+       y1="236.39999" />
+    <line
+       x2="515"
+       y2="21.599997"
+       stroke="#4d4d4d"
+       id="line884"
+       x1="515"
+       y1="236.39999" />
+    <line
+       x2="535"
+       y2="21.599997"
+       stroke="#4d4d4d"
+       id="line886"
+       x1="535"
+       y1="236.39999" />
+    <path
+       d="m 487.5,148.8415 h 15 v 67.84895 h -15 z"
+       fill="#1f77b4"
+       id="path890" />
+    <path
+       d="m 507.5,148.8415 h 15 v 67.84895 h -15 z"
+       fill="#ff7f0e"
+       id="path892" />
+    <path
+       d="m 527.5,148.85125 h 15 v 67.84936 h -15 z"
+       fill="#ff7f0e"
+       id="path894"
+       style="fill:#e45756;fill-opacity:1" />
+    <path
+       d="m 487.5,182.26598 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path898" />
+    <path
+       d="m 507.5,182.26598 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path900" />
+    <path
+       d="m 527.5,182.27593 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path902" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path908" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path916" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path924" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0,368 Z"
+       id="path930" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0,368 Z"
+       id="path932" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0,368 H 80 V 668 H 0 Z"
+       id="path934" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0.5,368.5 Z"
+       pointer-events="none"
+       id="path936" />
+    <line
+       x2="80.5"
+       y2="668.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line938"
+       x1="0.5"
+       y1="668.5"
+       style="stroke:#888888;stroke-opacity:1" />
+    <line
+       x2="80.5"
+       y2="638.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line940"
+       x1="0.5"
+       y1="638.5" />
+    <line
+       x2="80.5"
+       y2="608.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line942"
+       x1="0.5"
+       y1="608.5" />
+    <line
+       x2="80.5"
+       y2="578.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line944"
+       x1="0.5"
+       y1="578.5" />
+    <line
+       x2="80.5"
+       y2="548.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line946"
+       x1="0.5"
+       y1="548.5" />
+    <line
+       x2="80.5"
+       y2="518.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line948"
+       x1="0.5"
+       y1="518.5" />
+    <line
+       x2="80.5"
+       y2="488.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line950"
+       x1="0.5"
+       y1="488.5" />
+    <line
+       x2="80.5"
+       y2="458.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line952"
+       x1="0.5"
+       y1="458.5" />
+    <line
+       x2="80.5"
+       y2="428.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line954"
+       x1="0.5"
+       y1="428.5" />
+    <line
+       x2="80.5"
+       y2="398.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line956"
+       x1="0.5"
+       y1="398.5" />
+    <line
+       x2="80.5"
+       y2="368.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line958"
+       x1="0.5"
+       y1="368.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path964" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0.5,668.5 Z"
+       pointer-events="none"
+       id="path970"
+       style="stroke:#888888;stroke-opacity:1" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path982" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 0.5,368.5 Z"
+       pointer-events="none"
+       id="path988" />
+    <line
+       x2="-4.5"
+       y2="668.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line990"
+       x1="0.5"
+       y1="668.5" />
+    <line
+       x2="-4.5"
+       y2="638.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line992"
+       x1="0.5"
+       y1="638.5" />
+    <line
+       x2="-4.5"
+       y2="608.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line994"
+       x1="0.5"
+       y1="608.5" />
+    <line
+       x2="-4.5"
+       y2="578.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line996"
+       x1="0.5"
+       y1="578.5" />
+    <line
+       x2="-4.5"
+       y2="548.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line998"
+       x1="0.5"
+       y1="548.5" />
+    <line
+       x2="-4.5"
+       y2="518.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1000"
+       x1="0.5"
+       y1="518.5" />
+    <line
+       x2="-4.5"
+       y2="488.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1002"
+       x1="0.5"
+       y1="488.5" />
+    <line
+       x2="-4.5"
+       y2="458.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1004"
+       x1="0.5"
+       y1="458.5" />
+    <line
+       x2="-4.5"
+       y2="428.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1006"
+       x1="0.5"
+       y1="428.5" />
+    <line
+       x2="-4.5"
+       y2="398.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1008"
+       x1="0.5"
+       y1="398.5" />
+    <line
+       x2="-4.5"
+       y2="368.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1010"
+       x1="0.5"
+       y1="368.5" />
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1014"
+       x="-6.5"
+       y="671.5">0</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1016"
+       x="-6.5"
+       y="641.5">100</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1018"
+       x="-6.5"
+       y="611.5">200</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1020"
+       x="-6.5"
+       y="581.5">300</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1022"
+       x="-6.5"
+       y="551.5">400</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1024"
+       x="-6.5"
+       y="521.5">500</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1026"
+       x="-6.5"
+       y="491.5">600</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1028"
+       x="-6.5"
+       y="461.5">700</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1030"
+       x="-6.5"
+       y="431.5">800</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1032"
+       x="-6.5"
+       y="401.5">900</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1034"
+       x="-6.5"
+       y="371.5">1 000</text>
+    <line
+       x2="0.5"
+       y2="368.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1038"
+       x1="0.5"
+       y1="668.5" />
+    <text
+       text-anchor="middle"
+       transform="rotate(-90)"
+       font-family="sans-serif"
+       font-size="11px"
+       font-weight="bold"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1042"
+       x="-518.5"
+       y="-37.524422">Ischémie froide en minute</text>
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1048" />
+    <line
+       x2="20"
+       y2="387.5"
+       stroke="#4d4d4d"
+       id="line1054"
+       x1="20"
+       y1="644" />
+    <line
+       x2="40"
+       y2="387.5"
+       stroke="#4d4d4d"
+       id="line1056"
+       x1="40"
+       y1="644" />
+    <line
+       x2="60"
+       y2="387.79999"
+       stroke="#4d4d4d"
+       id="line1058"
+       x1="60"
+       y1="644" />
+    <path
+       d="m 12.5,510.36102 h 15 v 76.46717 h -15 z"
+       fill="#1f77b4"
+       id="path1062" />
+    <path
+       d="m 32.5,514.0857 h 15 v 75.08144 h -15 z"
+       fill="#ff7f0e"
+       id="path1064" />
+    <path
+       d="m 52.5,511.96065 h 15 v 76.17348 h -15 z"
+       fill="#ff7f0e"
+       id="path1066"
+       style="fill:#e45756;fill-opacity:1" />
+    <path
+       d="m 12.5,548.0946 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1070" />
+    <path
+       d="m 32.5,551.12642 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1072" />
+    <path
+       d="m 52.5,549.54739 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1074" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path1080" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="m 80,368 h 80 V 668 H 80 Z"
+       id="path1086" />
+    <line
+       x2="160.5"
+       y2="668.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1090"
+       x1="80.5"
+       y1="668.5"
+       style="stroke:#888888;stroke-opacity:1" />
+    <line
+       x2="160.5"
+       y2="638.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1092"
+       x1="80.5"
+       y1="638.5" />
+    <line
+       x2="160.5"
+       y2="608.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1094"
+       x1="80.5"
+       y1="608.5" />
+    <line
+       x2="160.5"
+       y2="578.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1096"
+       x1="80.5"
+       y1="578.5" />
+    <line
+       x2="160.5"
+       y2="548.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1098"
+       x1="80.5"
+       y1="548.5" />
+    <line
+       x2="160.5"
+       y2="518.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1100"
+       x1="80.5"
+       y1="518.5" />
+    <line
+       x2="160.5"
+       y2="488.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1102"
+       x1="80.5"
+       y1="488.5" />
+    <line
+       x2="160.5"
+       y2="458.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1104"
+       x1="80.5"
+       y1="458.5" />
+    <line
+       x2="160.5"
+       y2="428.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1106"
+       x1="80.5"
+       y1="428.5" />
+    <line
+       x2="160.5"
+       y2="398.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1108"
+       x1="80.5"
+       y1="398.5" />
+    <line
+       x2="160.5"
+       y2="368.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1110"
+       x1="80.5"
+       y1="368.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1116" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1134" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1200" />
+    <line
+       x2="100"
+       y2="412.10001"
+       stroke="#4d4d4d"
+       id="line1206"
+       x1="100"
+       y1="626" />
+    <line
+       x2="120"
+       y2="425.60001"
+       stroke="#4d4d4d"
+       id="line1208"
+       x1="120"
+       y1="639.79999" />
+    <line
+       x2="140"
+       y2="413.89999"
+       stroke="#4d4d4d"
+       id="line1210"
+       x1="140"
+       y1="629" />
+    <path
+       d="m 92.5,501.28782 h 15 v 66.88302 h -15 z"
+       fill="#1f77b4"
+       id="path1214" />
+    <path
+       d="m 112.5,518.44679 h 15 v 66.88173 h -15 z"
+       fill="#ff7f0e"
+       id="path1216" />
+    <path
+       d="m 132.5,505.74978 h 15 v 66.79834 h -15 z"
+       fill="#ff7f0e"
+       id="path1218"
+       style="fill:#e45756;fill-opacity:1" />
+    <path
+       d="m 92.5,534.22933 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1222" />
+    <path
+       d="m 112.5,551.38765 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1224" />
+    <path
+       d="m 132.5,538.64895 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1226" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path1232" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="m 160,368 h 80 v 300 h -80 z"
+       id="path1238" />
+    <line
+       x2="240.5"
+       y2="668.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1242"
+       x1="160.5"
+       y1="668.5"
+       style="stroke:#888888;stroke-opacity:1" />
+    <line
+       x2="240.5"
+       y2="638.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1244"
+       x1="160.5"
+       y1="638.5" />
+    <line
+       x2="240.5"
+       y2="608.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1246"
+       x1="160.5"
+       y1="608.5" />
+    <line
+       x2="240.5"
+       y2="578.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1248"
+       x1="160.5"
+       y1="578.5" />
+    <line
+       x2="240.5"
+       y2="548.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1250"
+       x1="160.5"
+       y1="548.5" />
+    <line
+       x2="240.5"
+       y2="518.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1252"
+       x1="160.5"
+       y1="518.5" />
+    <line
+       x2="240.5"
+       y2="488.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1254"
+       x1="160.5"
+       y1="488.5" />
+    <line
+       x2="240.5"
+       y2="458.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1256"
+       x1="160.5"
+       y1="458.5" />
+    <line
+       x2="240.5"
+       y2="428.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1258"
+       x1="160.5"
+       y1="428.5" />
+    <line
+       x2="240.5"
+       y2="398.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1260"
+       x1="160.5"
+       y1="398.5" />
+    <line
+       x2="240.5"
+       y2="368.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1262"
+       x1="160.5"
+       y1="368.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1268" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1286" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1352" />
+    <line
+       x2="180"
+       y2="371.29999"
+       stroke="#4d4d4d"
+       id="line1358"
+       x1="180"
+       y1="614" />
+    <line
+       x2="200"
+       y2="371.29999"
+       stroke="#4d4d4d"
+       id="line1360"
+       x1="200"
+       y1="614" />
+    <line
+       x2="220"
+       y2="371.29999"
+       stroke="#4d4d4d"
+       id="line1362"
+       x1="220"
+       y1="614" />
+    <path
+       d="m 172.5,497.54223 h 15 v 68.62276 h -15 z"
+       fill="#1f77b4"
+       id="path1366" />
+    <path
+       d="m 192.5,497.54223 h 15 v 68.62276 h -15 z"
+       fill="#ff7f0e"
+       id="path1368" />
+    <path
+       d="m 212.5,497.6773 h 15 v 68.57236 h -15 z"
+       fill="#ff7f0e"
+       id="path1370"
+       style="fill:#e45756;fill-opacity:1" />
+    <path
+       d="m 172.5,531.35361 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1374" />
+    <path
+       d="m 192.5,531.35361 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1376" />
+    <path
+       d="m 212.5,531.46348 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1378" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path1384" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path1392" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 316,368 Z"
+       id="path1398" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="m 316,368 h 80 v 300 h -80 z"
+       id="path1400" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 316.5,368.5 Z"
+       pointer-events="none"
+       id="path1402" />
+    <line
+       x2="396.5"
+       y2="668.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1404"
+       x1="316.5"
+       y1="668.5"
+       style="stroke:#888888;stroke-opacity:1" />
+    <line
+       x2="396.5"
+       y2="625.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1406"
+       x1="316.5"
+       y1="625.5" />
+    <line
+       x2="396.5"
+       y2="582.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1408"
+       x1="316.5"
+       y1="582.5" />
+    <line
+       x2="396.5"
+       y2="539.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1410"
+       x1="316.5"
+       y1="539.5" />
+    <line
+       x2="396.5"
+       y2="497.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1412"
+       x1="316.5"
+       y1="497.5" />
+    <line
+       x2="396.5"
+       y2="454.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1414"
+       x1="316.5"
+       y1="454.5" />
+    <line
+       x2="396.5"
+       y2="411.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1416"
+       x1="316.5"
+       y1="411.5" />
+    <line
+       x2="396.5"
+       y2="368.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1418"
+       x1="316.5"
+       y1="368.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1424" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 316.5,668.5 Z"
+       pointer-events="none"
+       id="path1430"
+       style="stroke:#888888;stroke-opacity:1" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1442" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 316.5,368.5 Z"
+       pointer-events="none"
+       id="path1448" />
+    <line
+       x2="311.5"
+       y2="668.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1450"
+       x1="316.5"
+       y1="668.5" />
+    <line
+       x2="311.5"
+       y2="625.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1452"
+       x1="316.5"
+       y1="625.5" />
+    <line
+       x2="311.5"
+       y2="582.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1454"
+       x1="316.5"
+       y1="582.5" />
+    <line
+       x2="311.5"
+       y2="539.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1456"
+       x1="316.5"
+       y1="539.5" />
+    <line
+       x2="311.5"
+       y2="497.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1458"
+       x1="316.5"
+       y1="497.5" />
+    <line
+       x2="311.5"
+       y2="454.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1460"
+       x1="316.5"
+       y1="454.5" />
+    <line
+       x2="311.5"
+       y2="411.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1462"
+       x1="316.5"
+       y1="411.5" />
+    <line
+       x2="311.5"
+       y2="368.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1464"
+       x1="316.5"
+       y1="368.5" />
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1468"
+       x="309.5"
+       y="671.5">0</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1470"
+       x="309.5"
+       y="628.64288">500</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1472"
+       x="309.5"
+       y="585.78571">1 000</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1474"
+       x="309.5"
+       y="542.92859">1 500</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1476"
+       x="309.5"
+       y="500.07144">2 000</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1478"
+       x="309.5"
+       y="457.21429">2 500</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1480"
+       x="309.5"
+       y="414.35715">3 000</text>
+    <text
+       text-anchor="end"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1482"
+       x="309.5"
+       y="371.5">3 500</text>
+    <line
+       x2="316.5"
+       y2="368.5"
+       stroke="#888888"
+       stroke-width="1"
+       opacity="1"
+       id="line1486"
+       x1="316.5"
+       y1="668.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1496" />
+    <line
+       x2="336"
+       y2="409.74286"
+       stroke="#4d4d4d"
+       id="line1502"
+       x1="336"
+       y1="662.85712" />
+    <line
+       x2="356"
+       y2="409.74286"
+       stroke="#4d4d4d"
+       id="line1504"
+       x1="356"
+       y1="662.94287" />
+    <line
+       x2="376"
+       y2="409.74286"
+       stroke="#4d4d4d"
+       id="line1506"
+       x1="376"
+       y1="663.88568" />
+    <path
+       d="m 328.5,565.23761 h 15 v 55.19096 h -15 z"
+       fill="#1f77b4"
+       id="path1510" />
+    <path
+       d="m 348.5,566.46747 h 15 v 55.11572 h -15 z"
+       fill="#ff7f0e"
+       id="path1512" />
+    <path
+       d="m 368.5,565.76267 h 15 v 55.10269 h -15 z"
+       fill="#ff7f0e"
+       id="path1514"
+       style="fill:#e45756;fill-opacity:1" />
+    <path
+       d="m 328.5,592.33309 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1518" />
+    <path
+       d="m 348.5,593.52533 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1520" />
+    <path
+       d="m 368.5,592.81402 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1522" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path1528" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="m 396,368 h 80 v 300 h -80 z"
+       id="path1534" />
+    <line
+       x2="476.5"
+       y2="668.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1538"
+       x1="396.5"
+       y1="668.5"
+       style="stroke:#888888;stroke-opacity:1" />
+    <line
+       x2="476.5"
+       y2="625.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1540"
+       x1="396.5"
+       y1="625.5" />
+    <line
+       x2="476.5"
+       y2="582.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1542"
+       x1="396.5"
+       y1="582.5" />
+    <line
+       x2="476.5"
+       y2="539.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1544"
+       x1="396.5"
+       y1="539.5" />
+    <line
+       x2="476.5"
+       y2="497.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1546"
+       x1="396.5"
+       y1="497.5" />
+    <line
+       x2="476.5"
+       y2="454.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1548"
+       x1="396.5"
+       y1="454.5" />
+    <line
+       x2="476.5"
+       y2="411.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1550"
+       x1="396.5"
+       y1="411.5" />
+    <line
+       x2="474.5"
+       y2="368.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1552"
+       x1="394.5"
+       y1="368.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1558" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1576" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1630" />
+    <line
+       x2="416"
+       y2="427.39999"
+       stroke="#4d4d4d"
+       id="line1636"
+       x1="416"
+       y1="651.54285" />
+    <line
+       x2="436"
+       y2="433.91428"
+       stroke="#4d4d4d"
+       id="line1638"
+       x1="436"
+       y1="655.48572" />
+    <line
+       x2="456"
+       y2="429.88571"
+       stroke="#4d4d4d"
+       id="line1640"
+       x1="456"
+       y1="651.88568" />
+    <path
+       d="m 408.5,554.71183 h 15 v 57.43635 h -15 z"
+       fill="#1f77b4"
+       id="path1644" />
+    <path
+       d="m 428.5,559.72738 h 15 v 57.21023 h -15 z"
+       fill="#ff7f0e"
+       id="path1646" />
+    <path
+       d="m 448.5,556.06784 h 15 v 57.29063 h -15 z"
+       fill="#ff7f0e"
+       id="path1648"
+       style="fill:#e45756;fill-opacity:1" />
+    <path
+       d="m 408.5,582.93 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1652" />
+    <path
+       d="m 428.5,587.8325 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1654" />
+    <path
+       d="m 448.5,584.21316 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1656" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path1662" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="m 474,368 h 80 v 300 h -80 z"
+       id="path1668" />
+    <line
+       x2="554.5"
+       y2="668.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1672"
+       x1="474.5"
+       y1="668.5"
+       style="stroke:#888888;stroke-opacity:1" />
+    <line
+       x2="554.5"
+       y2="625.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1674"
+       x1="474.5"
+       y1="625.5" />
+    <line
+       x2="554.5"
+       y2="582.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1676"
+       x1="474.5"
+       y1="582.5" />
+    <line
+       x2="554.5"
+       y2="539.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1678"
+       x1="474.5"
+       y1="539.5" />
+    <line
+       x2="554.5"
+       y2="497.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1680"
+       x1="474.5"
+       y1="497.5" />
+    <line
+       x2="554.5"
+       y2="454.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1682"
+       x1="474.5"
+       y1="454.5" />
+    <line
+       x2="554.5"
+       y2="411.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1684"
+       x1="474.5"
+       y1="411.5" />
+    <line
+       x2="554.5"
+       y2="368.5"
+       stroke="#dddddd"
+       stroke-width="1"
+       opacity="1"
+       id="line1686"
+       x1="474.5"
+       y1="368.5" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1692" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1710" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       pointer-events="none"
+       display="none"
+       id="path1764" />
+    <line
+       x2="494"
+       y2="447.97144"
+       stroke="#4d4d4d"
+       id="line1770"
+       x1="494"
+       y1="649.57141" />
+    <line
+       x2="514"
+       y2="447.97144"
+       stroke="#4d4d4d"
+       id="line1772"
+       x1="514"
+       y1="649.57141" />
+    <line
+       x2="534"
+       y2="447.97144"
+       stroke="#4d4d4d"
+       id="line1774"
+       x1="534"
+       y1="649.57141" />
+    <path
+       d="m 486.5,544.89725 h 15 v 62.63853 h -15 z"
+       fill="#1f77b4"
+       id="path1778" />
+    <path
+       d="m 506.5,544.89725 h 15 v 62.63853 h -15 z"
+       fill="#ff7f0e"
+       id="path1780" />
+    <path
+       d="m 526.5,544.91353 h 15 v 62.64162 h -15 z"
+       fill="#ff7f0e"
+       id="path1782"
+       style="fill:#e45756;fill-opacity:1" />
+    <path
+       d="m 486.5,575.71652 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1786" />
+    <path
+       d="m 506.5,575.71652 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1788" />
+    <path
+       d="m 526.5,575.73434 h 15 v 1 h -15 z"
+       fill="#ffffff"
+       opacity="0.7"
+       id="path1790" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path1796" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path1804" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path1812" />
+    <path
+       class="foreground"
+       aria-hidden="true"
+       d=""
+       display="none"
+       id="path1834" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="titre"
+     transform="translate(-94.677719,49)">
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 210.65771,21 Z"
+       pointer-events="none"
+       id="path636"
+       style="fill:none;stroke-miterlimit:10" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 604.48779,21 Z"
+       pointer-events="none"
+       id="path1342"
+       style="fill:none;stroke-miterlimit:10" />
+    <g
+       class="mark-group role-title"
+       id="g3848"
+       style="fill:none;stroke-miterlimit:10"
+       transform="translate(69,31)">
+      <g
+         transform="translate(340.48779,-82)"
+         id="g3846">
+        <path
+           class="background"
+           aria-hidden="true"
+           d="M -12,2 Z"
+           pointer-events="none"
+           id="path3836" />
+        <g
+           id="g3842">
+          <g
+             class="mark-text role-title-text"
+             role="graphics-symbol"
+             aria-roledescription="title"
+             aria-label="Title text 'Répartition de l'ischémie froide par classes de distance et modes de transport (hors local strict et plus de 300 km)'"
+             pointer-events="none"
+             id="g3840" />
+        </g>
+        <path
+           class="foreground"
+           aria-hidden="true"
+           d=""
+           pointer-events="none"
+           display="none"
+           id="path3844" />
+      </g>
+    </g>
+    <path
+       class="background"
+       aria-hidden="true"
+       d="m 208.32373,-20 h 366 v 11 h -366 z"
+       pointer-events="none"
+       id="path3766"
+       style="fill:none;stroke-miterlimit:10" />
+    <path
+       class="background"
+       aria-hidden="true"
+       d="M 208.32373,-20 Z"
+       pointer-events="none"
+       id="path3768"
+       style="fill:none;stroke-miterlimit:10" />
+    <g
+       id="g3784"
+       style="fill:none;stroke-miterlimit:10"
+       transform="translate(208.32373,-20)">
+      <path
+         class="background"
+         aria-hidden="true"
+         d="M 0,0 H 85.09375 V 11 H 0 Z"
+         pointer-events="none"
+         opacity="1"
+         id="path3770" />
+      <g
+         id="g3780"
+         transform="translate(-10)">
+        <g
+           class="mark-symbol role-legend-symbol"
+           pointer-events="none"
+           id="g3774">
+          <path
+             transform="translate(6,6)"
+             d="M -5,-5 H 5 V 5 H -5 Z"
+             fill="#4c78a8"
+             stroke-width="1.5"
+             opacity="1"
+             id="path3772" />
+        </g>
+        <g
+           class="mark-text role-legend-label"
+           pointer-events="none"
+           id="g3778">
+          <text
+             text-anchor="start"
+             transform="translate(16,9)"
+             font-family="sans-serif"
+             font-size="11px"
+             fill="#4d4d4d"
+             opacity="1"
+             id="text3776">1-Route-avion</text>
+        </g>
+      </g>
+      <path
+         class="foreground"
+         aria-hidden="true"
+         d=""
+         pointer-events="none"
+         display="none"
+         id="path3782" />
+    </g>
+    <g
+       transform="translate(304.32373,-20)"
+       id="g3800"
+       style="fill:none;stroke-miterlimit:10">
+      <path
+         class="background"
+         aria-hidden="true"
+         d="M 0,0 H 142.56982 V 11 H 0 Z"
+         pointer-events="none"
+         opacity="1"
+         id="path3786" />
+      <g
+         id="g3796">
+        <g
+           class="mark-symbol role-legend-symbol"
+           pointer-events="none"
+           id="g3790">
+          <path
+             transform="translate(6,6)"
+             d="M -5,-5 H 5 V 5 H -5 Z"
+             fill="#f58518"
+             stroke-width="1.5"
+             opacity="1"
+             id="path3788" />
+        </g>
+        <g
+           class="mark-text role-legend-label"
+           pointer-events="none"
+           id="g3794">
+          <text
+             text-anchor="start"
+             transform="translate(16,9)"
+             font-family="sans-serif"
+             font-size="11px"
+             fill="#4d4d4d"
+             opacity="1"
+             id="text3792">2-Route-<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#d45500"
+   id="tspan31433">hélicoptère</tspan>-avion</text>
+        </g>
+      </g>
+      <path
+         class="foreground"
+         aria-hidden="true"
+         d=""
+         pointer-events="none"
+         display="none"
+         id="path3798" />
+    </g>
+    <g
+       transform="translate(477.32373,-20)"
+       id="g3816"
+       style="fill:none;stroke-miterlimit:10">
+      <path
+         class="background"
+         aria-hidden="true"
+         d="M 0,0 H 116.89063 V 11 H 0 Z"
+         pointer-events="none"
+         opacity="1"
+         id="path3802" />
+      <g
+         id="g3812">
+        <g
+           class="mark-symbol role-legend-symbol"
+           pointer-events="none"
+           id="g3806">
+          <path
+             transform="translate(6,6)"
+             d="M -5,-5 H 5 V 5 H -5 Z"
+             fill="#e45756"
+             stroke-width="1.5"
+             opacity="1"
+             id="path3804" />
+        </g>
+        <g
+           class="mark-text role-legend-label"
+           pointer-events="none"
+           id="g3810">
+          <text
+             text-anchor="start"
+             transform="translate(16,9)"
+             font-family="sans-serif"
+             font-size="11px"
+             fill="#4d4d4d"
+             opacity="1"
+             id="text3808">3-Route-<tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:sans-serif;fill:#c83737"
+   id="tspan31435">drone</tspan>-avion</text>
+        </g>
+      </g>
+      <path
+         class="foreground"
+         aria-hidden="true"
+         d=""
+         pointer-events="none"
+         display="none"
+         id="path3814" />
+    </g>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="12px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text642"
+       style="stroke-miterlimit:10"
+       x="261.34473"
+       y="30.895411">Greffe cardiaque</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="12px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text1348"
+       style="stroke-miterlimit:10"
+       x="261.34473"
+       y="397.90952">Greffe hépatique</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="12px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text2080"
+       style="stroke-miterlimit:10"
+       x="576.43286"
+       y="30.895411">Greffe pulmonaire</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="12px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text3738"
+       style="stroke-miterlimit:10"
+       x="575.46069"
+       y="397.90952">Greffe rénale</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#000000"
+       opacity="1"
+       id="text100-7"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#4d4d4d;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#4d4d4d;stop-opacity:1"
+       x="93.640587"
+       y="341.08145"
+       transform="translate(88,14)">1 à 100 km</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#000000"
+       opacity="1"
+       id="text136"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#4d4d4d;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#4d4d4d;stop-opacity:1"
+       x="171.64059"
+       y="341.08145"
+       transform="translate(88,14)">101 à 200 km</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#000000"
+       opacity="1"
+       id="text172"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#4d4d4d;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#4d4d4d;stop-opacity:1"
+       x="253.64056"
+       y="341.08145"
+       transform="translate(88,14)">201 à 300 km</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text100-7-5"
+       style="stroke-miterlimit:10"
+       x="493.64059"
+       y="355.08145">1 à 100 km</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text136-8"
+       style="stroke-miterlimit:10"
+       x="571.64062"
+       y="355.08145">101 à 200 km</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text172-1"
+       style="stroke-miterlimit:10"
+       x="653.64056"
+       y="355.08145">201 à 300 km</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#000000"
+       opacity="1"
+       id="text100-7-0"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#4d4d4d;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#4d4d4d"
+       x="93.640587"
+       y="341.08145"
+       transform="translate(88,380)">1 à 100 km</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#000000"
+       opacity="1"
+       id="text136-5"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#4d4d4d;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#4d4d4d"
+       x="171.64059"
+       y="341.08145"
+       transform="translate(88,380)">101 à 200 km</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#000000"
+       opacity="1"
+       id="text172-2"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#4d4d4d;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:middle;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;vector-effect:none;fill:#4d4d4d;fill-opacity:1;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#4d4d4d"
+       x="253.64056"
+       y="341.08145"
+       transform="translate(88,380)">201 à 300 km</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text100-7-5-6"
+       style="stroke-miterlimit:10"
+       x="493.64059"
+       y="721.08142">1 à 100 km</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text136-8-1"
+       style="stroke-miterlimit:10"
+       x="571.64062"
+       y="721.08142">101 à 200 km</text>
+    <text
+       text-anchor="middle"
+       font-family="sans-serif"
+       font-size="10px"
+       fill="#4d4d4d"
+       opacity="1"
+       id="text172-1-1"
+       style="stroke-miterlimit:10"
+       x="653.64056"
+       y="721.08142">201 à 300 km</text>
+  </g>
+</svg>

@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   class="marks"
+   width="648.2417"
+   height="418.39746"
+   viewBox="0 0 648.2417 418.39746"
+   id="svg370"
+   sodipodi:docname="figure3.svg"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs374" />
+  <sodipodi:namedview
+     id="namedview372"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="1.2010902"
+     inkscape:cx="307.63718"
+     inkscape:cy="166.93168"
+     inkscape:window-width="1920"
+     inkscape:window-height="1034"
+     inkscape:window-x="0"
+     inkscape:window-y="22"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg370"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <path
+     class="background"
+     aria-hidden="true"
+     d="M 34.895508,22.897461 H 634.89551 V 372.89746 H 34.895508 Z"
+     stroke="#dddddd"
+     id="path4"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="background"
+     aria-hidden="true"
+     d="M 34.895508,22.897461 Z"
+     pointer-events="none"
+     id="path6"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="372.89746"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line8"
+     x1="34.895508"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="345.89746"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line10"
+     x1="34.895508"
+     y1="345.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="318.89746"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line12"
+     x1="34.895508"
+     y1="318.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="291.89746"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line14"
+     x1="34.895508"
+     y1="291.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="264.89746"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line16"
+     x1="34.895508"
+     y1="264.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="237.89746"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line18"
+     x1="34.895508"
+     y1="237.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="210.89746"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line20"
+     x1="34.895508"
+     y1="210.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="184.89746"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line22"
+     x1="34.895508"
+     y1="184.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="157.89746"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line24"
+     x1="34.895508"
+     y1="157.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="130.89746"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line26"
+     x1="34.895508"
+     y1="130.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="103.89746"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line28"
+     x1="34.895508"
+     y1="103.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="76.897461"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line30"
+     x1="34.895508"
+     y1="76.897461"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="49.897461"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line32"
+     x1="34.895508"
+     y1="49.897461"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="634.89551"
+     y2="22.897461"
+     stroke="#dddddd"
+     stroke-width="1"
+     opacity="1"
+     id="line34"
+     x1="34.895508"
+     y1="22.897461"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="foreground"
+     aria-hidden="true"
+     d=""
+     pointer-events="none"
+     display="none"
+     id="path40"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="background"
+     aria-hidden="true"
+     d="M 34.895508,372.89746 Z"
+     pointer-events="none"
+     id="path46"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="64.895508"
+     y2="377.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line48"
+     x1="64.895508"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="124.89551"
+     y2="377.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line50"
+     x1="124.89551"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="184.89551"
+     y2="377.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line52"
+     x1="184.89551"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="244.89551"
+     y2="377.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line54"
+     x1="244.89551"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="304.89551"
+     y2="377.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line56"
+     x1="304.89551"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="364.89551"
+     y2="377.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line58"
+     x1="364.89551"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="424.89551"
+     y2="377.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line60"
+     x1="424.89551"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="484.89551"
+     y2="377.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line62"
+     x1="484.89551"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="544.89551"
+     y2="377.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line64"
+     x1="544.89551"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="604.89551"
+     y2="377.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line66"
+     x1="604.89551"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <text
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text70"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="64.395508"
+     y="387.89746">2010</text>
+  <text
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text72"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="124.39551"
+     y="387.89746">2011</text>
+  <text
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text74"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="184.39551"
+     y="387.89746">2012</text>
+  <text
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text76"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="244.39551"
+     y="387.89746">2013</text>
+  <text
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text78"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="304.39551"
+     y="387.89746">2014</text>
+  <text
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text80"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="364.39551"
+     y="387.89746">2015</text>
+  <text
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text82"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="424.39551"
+     y="387.89746">2016</text>
+  <text
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text84"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="484.39551"
+     y="387.89746">2017</text>
+  <text
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text86"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="544.39551"
+     y="387.89746">2018</text>
+  <text
+     text-anchor="middle"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text88"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="604.39551"
+     y="387.89746">2019</text>
+  <line
+     x2="634.89551"
+     y2="372.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line92"
+     x1="34.895508"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="foreground"
+     aria-hidden="true"
+     d=""
+     pointer-events="none"
+     display="none"
+     id="path98"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="background"
+     aria-hidden="true"
+     d="M 34.895508,22.897461 Z"
+     pointer-events="none"
+     id="path104"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="372.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line106"
+     x1="34.895508"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="345.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line108"
+     x1="34.895508"
+     y1="345.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="318.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line110"
+     x1="34.895508"
+     y1="318.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="291.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line112"
+     x1="34.895508"
+     y1="291.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="264.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line114"
+     x1="34.895508"
+     y1="264.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="237.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line116"
+     x1="34.895508"
+     y1="237.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="210.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line118"
+     x1="34.895508"
+     y1="210.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="184.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line120"
+     x1="34.895508"
+     y1="184.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="157.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line122"
+     x1="34.895508"
+     y1="157.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="130.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line124"
+     x1="34.895508"
+     y1="130.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="103.89746"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line126"
+     x1="34.895508"
+     y1="103.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="76.897461"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line128"
+     x1="34.895508"
+     y1="76.897461"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="49.897461"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line130"
+     x1="34.895508"
+     y1="49.897461"
+     style="fill:none;stroke-miterlimit:10" />
+  <line
+     x2="29.895508"
+     y2="22.897461"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line132"
+     x1="34.895508"
+     y1="22.897461"
+     style="fill:none;stroke-miterlimit:10" />
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text136"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="375.89746">0</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text138"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="348.9744">200</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text140"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="322.0513">400</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text142"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="295.12823">600</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text144"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="268.20514">800</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text146"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="241.28207">1 000</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text148"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="214.35899">1 200</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text150"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="187.43593">1 400</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text152"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="160.51285">1 600</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text154"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="133.58977">1 800</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text156"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="106.66669">2 000</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text158"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="79.743614">2 200</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text160"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="52.820538">2 400</text>
+  <text
+     text-anchor="end"
+     font-family="sans-serif"
+     font-size="10px"
+     fill="#000000"
+     opacity="1"
+     id="text162"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10"
+     x="27.895508"
+     y="25.897461">2 600</text>
+  <line
+     x2="34.895508"
+     y2="22.897461"
+     stroke="#888888"
+     stroke-width="1"
+     opacity="1"
+     id="line166"
+     x1="34.895508"
+     y1="372.89746"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="foreground"
+     aria-hidden="true"
+     d=""
+     pointer-events="none"
+     display="none"
+     id="path172"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     d="m 37.395508,173.70515 h 54 v 198.69231 h -54 z"
+     fill="#4c78a8"
+     id="path178"
+     style="stroke-miterlimit:10" />
+  <path
+     d="M 97.395508,160.78208 H 151.39551 V 372.39746 H 97.395508 Z"
+     fill="#4c78a8"
+     id="path180"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 157.39551,158.49361 h 54 v 213.90385 h -54 z"
+     fill="#4c78a8"
+     id="path182"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 217.39551,153.37823 h 54 v 219.01923 h -54 z"
+     fill="#4c78a8"
+     id="path184"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 277.39551,149.609 h 54 v 222.78846 h -54 z"
+     fill="#4c78a8"
+     id="path186"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 337.39551,134.26284 h 54 v 238.13462 h -54 z"
+     fill="#4c78a8"
+     id="path188"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 397.39551,134.12823 h 54 v 238.26923 h -54 z"
+     fill="#4c78a8"
+     id="path190"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 457.39551,130.62823 h 54 v 241.76923 h -54 z"
+     fill="#4c78a8"
+     id="path192"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 517.39551,137.76284 h 54 v 234.63462 h -54 z"
+     fill="#4c78a8"
+     id="path194"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 577.39551,139.64746 h 54 v 232.75 h -54 z"
+     fill="#4c78a8"
+     id="path196"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 37.395508,131.97438 h 54 v 41.73077 h -54 z"
+     fill="#f58518"
+     id="path198"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 97.395508,115.68592 h 54.000002 v 45.09616 H 97.395508 Z"
+     fill="#f58518"
+     id="path200"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 157.39551,108.14746 h 54 v 50.34615 h -54 z"
+     fill="#f58518"
+     id="path202"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 217.39551,96.839771 h 54 v 56.538459 h -54 z"
+     fill="#f58518"
+     id="path204"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 277.39551,78.12823 h 54 V 149.609 h -54 z"
+     fill="#f58518"
+     id="path206"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 337.39551,57.262846 h 54 v 76.999994 h -54 z"
+     fill="#f58518"
+     id="path208"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 397.39551,55.37823 h 54 v 78.75 h -54 z"
+     fill="#f58518"
+     id="path210"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 457.39551,44.87823 h 54 v 85.75 h -54 z"
+     fill="#f58518"
+     id="path212"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 517.39551,62.108999 h 54 v 75.653841 h -54 z"
+     fill="#f58518"
+     id="path214"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 577.39551,67.762846 h 54 v 71.884614 h -54 z"
+     fill="#f58518"
+     id="path216"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 37.395508,123.62823 h 54 v 8.34615 h -54 z"
+     fill="#e45756"
+     id="path218"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 97.395508,107.87823 h 54.000002 v 7.80769 H 97.395508 Z"
+     fill="#e45756"
+     id="path220"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 157.39551,101.01285 h 54 v 7.13461 h -54 z"
+     fill="#e45756"
+     id="path222"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 217.39551,89.705153 h 54 v 7.134618 h -54 z"
+     fill="#e45756"
+     id="path224"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 277.39551,72.743615 h 54 v 5.384615 h -54 z"
+     fill="#e45756"
+     id="path226"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 337.39551,51.87823 h 54 v 5.384616 h -54 z"
+     fill="#e45756"
+     id="path228"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 397.39551,49.724384 h 54 v 5.653846 h -54 z"
+     fill="#e45756"
+     id="path230"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 457.39551,39.762846 h 54 v 5.115384 h -54 z"
+     fill="#e45756"
+     id="path232"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 517.39551,59.820538 h 54 v 2.288461 h -54 z"
+     fill="#e45756"
+     id="path234"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 577.39551,65.339769 h 54 v 2.423077 h -54 z"
+     fill="#e45756"
+     id="path236"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 37.395508,123.62823 h 54 v 0 z"
+     fill="#72b7b2"
+     id="path238"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 97.395508,107.87823 h 54.000002 v 0 z"
+     fill="#72b7b2"
+     id="path240"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 157.39551,101.01285 h 54 v 0 z"
+     fill="#72b7b2"
+     id="path242"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 217.39551,89.705153 h 54 v 0 z"
+     fill="#72b7b2"
+     id="path244"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 277.39551,72.743615 h 54 v 0 z"
+     fill="#72b7b2"
+     id="path246"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 337.39551,49.858999 h 54 v 2.019231 h -54 z"
+     fill="#72b7b2"
+     id="path248"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 397.39551,43.397461 h 54 v 6.326923 h -54 z"
+     fill="#72b7b2"
+     id="path250"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 457.39551,26.435922 h 54 v 13.326924 h -54 z"
+     fill="#72b7b2"
+     id="path252"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 517.39551,43.532076 h 54 v 16.288462 h -54 z"
+     fill="#72b7b2"
+     id="path254"
+     style="stroke-miterlimit:10" />
+  <path
+     d="m 577.39551,41.512846 h 54 v 23.826923 h -54 z"
+     fill="#72b7b2"
+     id="path256"
+     style="stroke-miterlimit:10" />
+  <path
+     class="background"
+     aria-hidden="true"
+     d="M 34.395508,407.39746 H 579.39551 v 11 H 34.395508 Z"
+     pointer-events="none"
+     id="path260"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="background"
+     aria-hidden="true"
+     d="M 30.395508,412.89746 Z"
+     pointer-events="none"
+     id="path262"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="background"
+     aria-hidden="true"
+     d="M 30.395508,407.39746 H 139.31543 v 11 H 30.395508 Z"
+     pointer-events="none"
+     opacity="1"
+     id="path264"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     d="m 31.395508,407.89746 h 10 v 10 h -10 z"
+     fill="#4c78a8"
+     stroke-width="1.5"
+     opacity="1"
+     id="path266"
+     style="stroke-miterlimit:10" />
+  <text
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="11px"
+     fill="#000000"
+     opacity="1"
+     id="text270"
+     x="46.395508"
+     y="416.8291"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10">1-Donneurs DDME</text>
+  <path
+     class="foreground"
+     aria-hidden="true"
+     d=""
+     pointer-events="none"
+     display="none"
+     id="path276"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="background"
+     aria-hidden="true"
+     d="m 155.39551,407.39746 h 110.76758 v 11 H 155.39551 Z"
+     pointer-events="none"
+     opacity="1"
+     id="path280"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     d="m 156.39551,407.89746 h 10 v 10 h -10 z"
+     fill="#f58518"
+     stroke-width="1.5"
+     opacity="1"
+     id="path282"
+     style="stroke-miterlimit:10" />
+  <text
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="11px"
+     fill="#000000"
+     opacity="1"
+     id="text286"
+     x="171.39551"
+     y="416.99829"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10">2-Donneurs vivants</text>
+  <path
+     class="foreground"
+     aria-hidden="true"
+     d=""
+     pointer-events="none"
+     display="none"
+     id="path292"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="background"
+     aria-hidden="true"
+     d="m 288.39551,407.39746 h 157.84521 v 11 H 288.39551 Z"
+     pointer-events="none"
+     opacity="1"
+     id="path296"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     d="m 289.39551,407.89746 h 10 v 10 h -10 z"
+     fill="#e45756"
+     stroke-width="1.5"
+     opacity="1"
+     id="path298"
+     style="stroke-miterlimit:10" />
+  <text
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="11px"
+     fill="#000000"
+     opacity="1"
+     id="text302"
+     x="304.39551"
+     y="416.99829"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10">3-Donneurs Maastricht 1 et 2</text>
+  <path
+     class="foreground"
+     aria-hidden="true"
+     d=""
+     pointer-events="none"
+     display="none"
+     id="path308"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="background"
+     aria-hidden="true"
+     d="m 476.39551,407.39746 h 136.44141 v 11 H 476.39551 Z"
+     pointer-events="none"
+     opacity="1"
+     id="path312"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     d="m 477.39551,407.89746 h 10 v 10 h -10 z"
+     fill="#72b7b2"
+     stroke-width="1.5"
+     opacity="1"
+     id="path314"
+     style="stroke-miterlimit:10" />
+  <text
+     text-anchor="start"
+     font-family="sans-serif"
+     font-size="11px"
+     fill="#000000"
+     opacity="1"
+     id="text318"
+     x="492.39551"
+     y="416.99829"
+     style="fill:#4d4d4d;fill-opacity:1;stroke-miterlimit:10">4-Donneurs Maastricht 3</text>
+  <path
+     class="foreground"
+     aria-hidden="true"
+     d=""
+     pointer-events="none"
+     display="none"
+     id="path324"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="foreground"
+     aria-hidden="true"
+     d=""
+     pointer-events="none"
+     display="none"
+     id="path332"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="foreground"
+     aria-hidden="true"
+     d=""
+     pointer-events="none"
+     display="none"
+     id="path340"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="background"
+     aria-hidden="true"
+     d="M 334.39551,0.39746094 Z"
+     pointer-events="none"
+     id="path346"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="foreground"
+     aria-hidden="true"
+     d=""
+     pointer-events="none"
+     display="none"
+     id="path354"
+     style="fill:none;stroke-miterlimit:10" />
+  <path
+     class="foreground"
+     aria-hidden="true"
+     d=""
+     display="none"
+     id="path362"
+     style="fill:none;stroke-miterlimit:10" />
+  <g
+     id="g383"
+     transform="matrix(0,-1.3807937,1.3807937,0,154.3516,876.46629)">
+    <text
+       transform="translate(364.0224,356.2296)"
+       class="st18 st19 st20"
+       id="text381"
+       style="font-size:7px;font-family:DejaVuSans-Oblique;fill:#adadad"><tspan
+         style="font-style:oblique;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7px;font-family:'DejaVu Sans';-inkscape-font-specification:'DejaVu Sans, Oblique';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+         id="tspan9863">Source : Agence de la biomédecine 2022</tspan></text>
+  </g>
+</svg>
